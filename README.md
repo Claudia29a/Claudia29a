@@ -45,7 +45,8 @@
 - Git & GitHub (Version Control)  
 - VSCode, Android Studio, Figma  
 - Branch management in Git, conflict resolution  
-- API Testing & Integration  
+- API Testing & Integration
+
 **Databases & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,6 +54,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ### Other
 
 - UI & brand design (Font: Expressway Extra Bold, Roboto; Color: Deep Purple)  
@@ -63,17 +65,34 @@
 
 ## 🖥️ Featured Projects
 
-🔹 **WildGuide App**  
+🔹 **WildGuide App** – [wildgids](https://github.com/Claudia29a/wildgids)  
 Mobile app for wildlife reporting, form submissions, authentication, and data visualization (Antlered deer element, questionnaire screens)  
+`Dart` `Flutter`
 
-🔹 **WildReport App**  
+🔹 **WildReport App** – [wildrapport](https://github.com/Claudia29a/wildrapport)  
 Brand guide creator, style board tool, revision tracking, design system builder  
+`Dart` `Flutter` `Mozilla Public License 2.0`
 
-🔹 **Notes & Tasks Manager**  
-Grocery lists, financial tracking, custom folder organization, light/dark theme, local Hive DB storage  
-
-🔹 **Trend Radar Visualization (Angular)**  
+🔹 **Trend Radar Visualization** – [vanderlande-project](https://github.com/Claudia29a/vanderlande-project)  
 Interactive cards, filtering system, responsive UI for technology trend tracking  
+`C++` `Angular`
+
+🔹 **Media Player App** – [media-player-app](https://github.com/Claudia29a/media-player-app)  
+Android media player application  
+`Kotlin`
+
+🔹 **Photography Blog Backend** – [Photography-Blog-Backend](https://github.com/Claudia29a/Photography-Blog-Backend)  
+Backend system for photography blog platform  
+`JavaScript` `Node.js`
+
+🔹 **Portfolio Projects**  
+- [Portfolio Internship](https://github.com/Claudia29a/Portfolio-internship) – `HTML`
+- [Portfolio Semester 2](https://github.com/Claudia29a/PortfolioSemester2-main) – `HTML`
+- [Portfolio Semester 3](https://github.com/Claudia29a/PortfolioSemester3-main) – `JavaScript`
+- [Personal Portfolio](https://github.com/Claudia29a/personal-portfolio) – `HTML`
+
+🔹 **Development Project** – [development-project](https://github.com/Claudia29a/development-project)  
+General development and experimentation repository
 
 ---
 
