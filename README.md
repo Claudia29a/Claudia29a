@@ -2,8 +2,8 @@
 
 🚀 **Mobile Developer Student | UX Designer & Frontend Developer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cretu-claudia)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Claudia29a)  
+[![Connect with Cretu Claudia on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cretu-claudia)  
+[![Follow Claudia29a on GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Claudia29a)  
 
 ---
 
@@ -66,9 +66,9 @@ Interactive cards, filtering system, responsive UI for technology trend tracking
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Claudia29a&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia29a&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Claudia29a&theme=tokyonight)  
+![Claudia's GitHub contribution statistics showing stars, commits, PRs, and issues](https://github-readme-stats.vercel.app/api?username=Claudia29a&show_icons=true&theme=tokyonight)  
+![Claudia's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia29a&layout=compact&theme=tokyonight)  
+![Claudia's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=Claudia29a&theme=tokyonight)  
 
 ---
 
